@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483331304551",
+    "project_id": "anixon-7fbed",
+    "storage_bucket": "anixon-7fbed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483331304551:android:b170834619a965a537f8c2",
+        "android_client_info": {
+          "package_name": "com.example.anixon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBQaW4MTiMU6zdxsVu3YOEqfohmnTWAso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
